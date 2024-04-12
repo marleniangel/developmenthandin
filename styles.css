@@ -1,0 +1,15 @@
+.image-container {
+    text-align: left;
+    margin-bottom: 0px;
+    flex: 1 1 100%;
+}
+
+.menu-image {
+    max-width: 50%;
+    height: auto;
+}
+
+.menu-image2 {
+    max-width: 25%;
+    height: auto;
+}
